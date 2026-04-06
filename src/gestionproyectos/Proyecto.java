@@ -7,7 +7,6 @@ public class Proyecto {
         this.nombreProyecto = nombreProyecto;
     }
 
-
     public void calcularAvance() {
         System.out.println("Calculando el avance del proyecto...");
     }
